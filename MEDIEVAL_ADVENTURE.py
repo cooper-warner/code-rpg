@@ -42,7 +42,7 @@ if x== '2':
             print ('you start to see the roofs of a village but when you get there it is on fire and no one is there. ')
             time.sleep(3)
             print ('you walk passed the village and you here yells you peek thrught the bushes and see the bandits running from a huge ogre')
-            print ('you run to the cave and in the cave is gold! you leave and see natives. you trade the some gold for you to go free you leave. you become 
+            print ('you run to the cave and in the cave is gold! you leave and see natives. you trade the some gold for you to go free you leave. you become the richest mam in the world.')
             
 if x== '3': print ('the cave was a trap when you step in you here yelling. you turn to see natives just a two darts enter your neck and you start to faint.YOU DIED ')
                    
